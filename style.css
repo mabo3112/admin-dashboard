@@ -138,8 +138,8 @@ a {
     padding: 10px;
 }
 .entries p {
-    font-size: 24px;
-    font-weight: 400;
+    font-size: 18px;
+    font-weight: 600;
     color: white;
 }
 
@@ -208,12 +208,15 @@ a {
 
 }
 
+.project p {
+    color: rgb(73, 73, 73);
+    font-size: 14px;
+}
+
 .project-icons {
     align-content: end;
     justify-self: end;
     
-}
-.project-icons .icon {
 }
 
 .project-icon {
